@@ -10,7 +10,7 @@ This project is designed to download YouTube videos and playlists using Python.
 Clone the project
 
 ```bash
-  git clone https://https://github.com/NeoHacker957/Python-Youtube-Downloader/
+  git clone https://https://github.com/msalihberk/Python-Youtube-Downloader/
 ```
 
 Go to the project directory
