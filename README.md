@@ -2,8 +2,9 @@
 # Python Youtube Downloader
 
 This project is designed to download YouTube videos and playlists using Python.
-
-<img width="1024" height="1024" alt="splash" src="https://github.com/user-attachments/assets/b327bc91-395a-4c47-9c7a-34535aca9b44" />
+<p align="center">
+<img width="512" height="512" alt="splash" src="https://github.com/user-attachments/assets/09ff0b1e-4f29-475c-a9ea-64d97dc15063" />
+</p>
 
 ## Run It On Your Computer
 
@@ -32,6 +33,9 @@ Run the Application
   python3 YoutubeDownloader.py
 ```
 
+## Screenshots
+
+  <img width="900" height="520" alt="screenshot" src="https://github.com/user-attachments/assets/8c85a6f3-e9c6-437e-a320-3061ebff997d" />
   
 ## Features
 
